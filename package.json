@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/Laurence2013/nodejs-tuts/issues"
   },
-  "homepage": "https://github.com/Laurence2013/nodejs-tuts#readme"
+  "homepage": "https://github.com/Laurence2013/nodejs-tuts#readme",
+  "devDependencies": {
+    "nodemon": "^1.19.4"
+  }
 }
