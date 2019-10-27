@@ -1,0 +1,21 @@
+{
+  "name": "creating-simple-node-server",
+  "version": "1.0.0",
+  "description": "Nodejs application",
+  "main": "app.js",
+  "scripts": {
+    "start": "node src/app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Laurence2013/nodejs-tuts.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Laurence2013/nodejs-tuts/issues"
+  },
+  "homepage": "https://github.com/Laurence2013/nodejs-tuts#readme"
+}
