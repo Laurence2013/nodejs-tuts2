@@ -4,11 +4,9 @@ const adminData   = require('./routes/admin');
 const shopRoutes  = require('./routes/shop');
 const pNotFound   = require('./routes/404');
 const path        = require('path');
-const xhndlbars   = require('express-handlebars');
 
 const app = express();
 
-app.engine('handlebars', xhndlbars());
 app.set('view engine', 'pug');
 app.set('views', 'src/views');
 
