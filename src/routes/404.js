@@ -1,5 +1,4 @@
 const express       = require('express');
-const path          = require('path');
 const pageNotFound  = require('../controllers/error.js');
 
 const router = express.Router();
